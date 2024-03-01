@@ -1,5 +1,4 @@
 # New Web App
-
 - MoviesGPT
     - Login/Sign up
         - Sign In / Sign up form
@@ -13,3 +12,13 @@
                 - multiple types movies lists on horizontal scroll
     - Search Bar
     - Movie Suggestions
+
+# Configurations
+- tailwind - for css
+- react-router-dom - for routing
+
+# Architech
+- Body
+    - Login (Sign In / Sign Up)
+        -Header
+    - Browse
